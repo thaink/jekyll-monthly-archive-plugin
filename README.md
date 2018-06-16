@@ -1,6 +1,6 @@
 ## Jekyll monthly archive plugin for minimal-mistake theme
 
-Minimal mistake is a very nice theme. I love it a lot.  
+Minimal-mistakes is a very nice theme. I love it a lot.  
 Check it out at https://mmistakes.github.io/minimal-mistakes/  
   
 
